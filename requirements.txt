@@ -5,5 +5,5 @@ pyarrow
 mlflow
 streamlit
 anthropic
-mcp[cli]
+mcp[cli]<2
 jupyter

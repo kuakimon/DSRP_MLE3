@@ -4,7 +4,7 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 models/*
-!models/.gitkeep
+!smodels/.gitkeep
 data/logs/*
 !data/logs/.gitkeep
 
