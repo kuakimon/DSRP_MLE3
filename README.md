@@ -161,8 +161,5 @@ notebooks/                 # 00–04 + sbp_modelo.py + eda/
 optuna/                    # estudios .db y resultados .csv
 src/monitoreo_evidently.py
 reports/monitoreo/         # PSI, resumen y reportes Evidently
-docs/                      # documentación, estrategia de git, imágenes
+docs/                      # documentación, imágenes
 ```
-
-## h. Estrategia de Git
-GitHub Flow con `main` y `development`; ver [`docs/git_strategy.md`](docs/git_strategy.md).
